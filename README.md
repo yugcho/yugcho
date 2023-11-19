@@ -1,4 +1,13 @@
-### 사용자와 데이터에 관심이 많은 Product Manager 입니다✨
+### Product Manager, interested in UX and Data Analysis✨
+#### 📍LOCATION
+Based in Seoul.
+#### 🛠️SKILLS
+##### TOOLS
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+#### 🤝CONTACT
+<a href="www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Yugyeong Cho&logoColor=white"/></a>
 
 <!--
 **yugcho/yugcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--배지영역-->
-<a href="www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
