@@ -1,11 +1,6 @@
 ### Product Manager, interested in UX and Data Analysis✨
 #### 🛠️TOOLS
 ##### Design
-<style>
-  img {
-    display: flex;
-  }
-</style>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 ##### Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
