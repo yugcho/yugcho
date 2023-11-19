@@ -1,4 +1,4 @@
-### Hi there 👋
+### 사용자와 데이터에 관심이 많은 Product Manager 입니다✨
 
 <!--
 **yugcho/yugcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--배지영역-->
-<a href="www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
