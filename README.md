@@ -11,6 +11,7 @@
 
 #### 🤝CONTACT
 <a href="www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Yugyeong Cho&logoColor=white"/></a>
+<a href="yugcho.ux@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=yugcho.ux&logoColor=white"/></a>
 
 <!--
 **yugcho/yugcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
