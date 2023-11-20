@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 #### 🤝CONTACT
-<a href="www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Yugyeong Cho&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Yugyeong Cho&logoColor=white"/></a>
 <a href="mailto:yugcho.ux@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=yugcho.ux&logoColor=white"/></a>
 #### 🎞️EXPERIENCE
 <a href="https://github.com/Dolhareubab"><img src="https://9oormthon-badge.minung.dev/badge.svg?text=%EB%8F%8C%ED%95%98%EB%A5%B4%EB%B0%A5&speed=1" alt="moon.svg"></a>
