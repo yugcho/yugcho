@@ -1,4 +1,5 @@
-### Product Manager, UX, Data Analysis✨
+### 사용자와 데이터에 관심이 많은 Product Manager
+뾰족한 인사이트와 둥근 태도를 지향합니다.
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 --> 
