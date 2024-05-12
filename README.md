@@ -3,10 +3,10 @@
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 --> 
-#### ✍️Archive
+#### 😊PERSONAL SPACE
+##### Archive
 <a href="https://yugcho.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-00000?style=flat-square&logo=Blog&logoColor=white"/></a>
-
-#### 🤝CONTACT
+##### Contact
 <a href="https://www.linkedin.com/in/yugcho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Yugyeong Cho&logoColor=white"/></a>
 <a href="mailto:yugcho.ux@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=yugcho.ux&logoColor=white"/></a>
 
